@@ -1,8 +1,13 @@
 # README
 
-This is a tutorial how to build a food recipe application with Ruby on Rails and a React frontend, using PostgreSQL as your database and Bootstrap for styling
+This is a tutorial how to build a food recipe application with Ruby on Rails and a React frontend in the one repo, using PostgreSQL as your database and Bootstrap for styling
 [Source](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend)
 
+
+![Start Page](./1im.png)
+![Recipes Page](./2im.png)
+![Recipe`s Card](./3im.png)
+![New Recipe Form](./4im.png)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
